@@ -1,4 +1,4 @@
-print("Hi sachin)
+print("Hi sachin")
 print("Hello world")
 original_string = "hello world"
 reversed_string = original_string[::-1]
